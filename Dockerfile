@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY foosball/ /usr/share/nginx/html
+COPY . /usr/share/nginx/html
